@@ -1,5 +1,11 @@
 require 'spec_helper'
 
+# Add all win conditions as test cases
+# Write code to satisfy conditions
+# keep running tests to see them pass or fail
+
+
+
 describe TicTacToe do
   describe 'win conditions' do
     it 'returns true when win' do
